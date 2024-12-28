@@ -1,0 +1,244 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\acer\\OneDrive\\Pictures\\Documents\\H\u1ECCC T\u1EF0 CODE\\dotnet\\EmployeeAdminPortal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0FFDFB79-94B5-43A7-B1B0-6C3AD0E13E4A}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|c:\\users\\acer\\onedrive\\pictures\\documents\\h\u1ECDc t\u1EF1 code\\dotnet\\employeeadminportal\\employeeadminportal\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FFDFB79-94B5-43A7-B1B0-6C3AD0E13E4A}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|solutionrelative:employeeadminportal\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FFDFB79-94B5-43A7-B1B0-6C3AD0E13E4A}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|c:\\users\\acer\\onedrive\\pictures\\documents\\h\u1ECDc t\u1EF1 code\\dotnet\\employeeadminportal\\employeeadminportal\\models\\updateemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FFDFB79-94B5-43A7-B1B0-6C3AD0E13E4A}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|solutionrelative:employeeadminportal\\models\\updateemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FFDFB79-94B5-43A7-B1B0-6C3AD0E13E4A}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|c:\\users\\acer\\onedrive\\pictures\\documents\\h\u1ECDc t\u1EF1 code\\dotnet\\employeeadminportal\\employeeadminportal\\models\\addemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FFDFB79-94B5-43A7-B1B0-6C3AD0E13E4A}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|solutionrelative:employeeadminportal\\models\\addemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FFDFB79-94B5-43A7-B1B0-6C3AD0E13E4A}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|c:\\users\\acer\\onedrive\\pictures\\documents\\h\u1ECDc t\u1EF1 code\\dotnet\\employeeadminportal\\employeeadminportal\\models\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FFDFB79-94B5-43A7-B1B0-6C3AD0E13E4A}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|solutionrelative:employeeadminportal\\models\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FFDFB79-94B5-43A7-B1B0-6C3AD0E13E4A}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|c:\\users\\acer\\onedrive\\pictures\\documents\\h\u1ECDc t\u1EF1 code\\dotnet\\employeeadminportal\\employeeadminportal\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FFDFB79-94B5-43A7-B1B0-6C3AD0E13E4A}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|solutionrelative:employeeadminportal\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FFDFB79-94B5-43A7-B1B0-6C3AD0E13E4A}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|c:\\users\\acer\\onedrive\\pictures\\documents\\h\u1ECDc t\u1EF1 code\\dotnet\\employeeadminportal\\employeeadminportal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0FFDFB79-94B5-43A7-B1B0-6C3AD0E13E4A}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|solutionrelative:employeeadminportal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FFDFB79-94B5-43A7-B1B0-6C3AD0E13E4A}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|c:\\users\\acer\\onedrive\\pictures\\documents\\h\u1ECDc t\u1EF1 code\\dotnet\\employeeadminportal\\employeeadminportal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FFDFB79-94B5-43A7-B1B0-6C3AD0E13E4A}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|solutionrelative:employeeadminportal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FFDFB79-94B5-43A7-B1B0-6C3AD0E13E4A}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|c:\\users\\acer\\onedrive\\pictures\\documents\\h\u1ECDc t\u1EF1 code\\dotnet\\employeeadminportal\\employeeadminportal\\employeeadminportal.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{0FFDFB79-94B5-43A7-B1B0-6C3AD0E13E4A}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|solutionrelative:employeeadminportal\\employeeadminportal.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FFDFB79-94B5-43A7-B1B0-6C3AD0E13E4A}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|c:\\users\\acer\\onedrive\\pictures\\documents\\h\u1ECDc t\u1EF1 code\\dotnet\\employeeadminportal\\employeeadminportal\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0FFDFB79-94B5-43A7-B1B0-6C3AD0E13E4A}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|solutionrelative:employeeadminportal\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FFDFB79-94B5-43A7-B1B0-6C3AD0E13E4A}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|c:\\users\\acer\\onedrive\\pictures\\documents\\h\u1ECDc t\u1EF1 code\\dotnet\\employeeadminportal\\employeeadminportal\\employeeadminportal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0FFDFB79-94B5-43A7-B1B0-6C3AD0E13E4A}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|solutionrelative:employeeadminportal\\employeeadminportal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FFDFB79-94B5-43A7-B1B0-6C3AD0E13E4A}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|c:\\users\\acer\\onedrive\\pictures\\documents\\h\u1ECDc t\u1EF1 code\\dotnet\\employeeadminportal\\employeeadminportal\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0FFDFB79-94B5-43A7-B1B0-6C3AD0E13E4A}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|solutionrelative:employeeadminportal\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FFDFB79-94B5-43A7-B1B0-6C3AD0E13E4A}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|c:\\users\\acer\\onedrive\\pictures\\documents\\h\u1ECDc t\u1EF1 code\\dotnet\\employeeadminportal\\employeeadminportal\\employeeadminportal.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{0FFDFB79-94B5-43A7-B1B0-6C3AD0E13E4A}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|solutionrelative:employeeadminportal\\employeeadminportal.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FFDFB79-94B5-43A7-B1B0-6C3AD0E13E4A}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|c:\\users\\acer\\onedrive\\pictures\\documents\\h\u1ECDc t\u1EF1 code\\dotnet\\employeeadminportal\\employeeadminportal\\migrations\\20241228093835_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FFDFB79-94B5-43A7-B1B0-6C3AD0E13E4A}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|solutionrelative:employeeadminportal\\migrations\\20241228093835_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddEmployeeDto.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\OneDrive\\Pictures\\Documents\\H\u1ECCC T\u1EF0 CODE\\dotnet\\EmployeeAdminPortal\\EmployeeAdminPortal\\Models\\AddEmployeeDto.cs",
+              "RelativeDocumentMoniker": "EmployeeAdminPortal\\Models\\AddEmployeeDto.cs",
+              "ToolTip": "C:\\Users\\acer\\OneDrive\\Pictures\\Documents\\H\u1ECCC T\u1EF0 CODE\\dotnet\\EmployeeAdminPortal\\EmployeeAdminPortal\\Models\\AddEmployeeDto.cs",
+              "RelativeToolTip": "EmployeeAdminPortal\\Models\\AddEmployeeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T10:10:36.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\OneDrive\\Pictures\\Documents\\H\u1ECCC T\u1EF0 CODE\\dotnet\\EmployeeAdminPortal\\EmployeeAdminPortal\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "EmployeeAdminPortal\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\acer\\OneDrive\\Pictures\\Documents\\H\u1ECCC T\u1EF0 CODE\\dotnet\\EmployeeAdminPortal\\EmployeeAdminPortal\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "EmployeeAdminPortal\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAqwEMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T09:47:45.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdateEmployeeDto.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\OneDrive\\Pictures\\Documents\\H\u1ECCC T\u1EF0 CODE\\dotnet\\EmployeeAdminPortal\\EmployeeAdminPortal\\Models\\UpdateEmployeeDto.cs",
+              "RelativeDocumentMoniker": "EmployeeAdminPortal\\Models\\UpdateEmployeeDto.cs",
+              "ToolTip": "C:\\Users\\acer\\OneDrive\\Pictures\\Documents\\H\u1ECCC T\u1EF0 CODE\\dotnet\\EmployeeAdminPortal\\EmployeeAdminPortal\\Models\\UpdateEmployeeDto.cs",
+              "RelativeToolTip": "EmployeeAdminPortal\\Models\\UpdateEmployeeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T10:37:15.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\OneDrive\\Pictures\\Documents\\H\u1ECCC T\u1EF0 CODE\\dotnet\\EmployeeAdminPortal\\EmployeeAdminPortal\\Models\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeAdminPortal\\Models\\Entities\\Employee.cs",
+              "ToolTip": "C:\\Users\\acer\\OneDrive\\Pictures\\Documents\\H\u1ECCC T\u1EF0 CODE\\dotnet\\EmployeeAdminPortal\\EmployeeAdminPortal\\Models\\Entities\\Employee.cs",
+              "RelativeToolTip": "EmployeeAdminPortal\\Models\\Entities\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T09:36:08.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\OneDrive\\Pictures\\Documents\\H\u1ECCC T\u1EF0 CODE\\dotnet\\EmployeeAdminPortal\\EmployeeAdminPortal\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "EmployeeAdminPortal\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\acer\\OneDrive\\Pictures\\Documents\\H\u1ECCC T\u1EF0 CODE\\dotnet\\EmployeeAdminPortal\\EmployeeAdminPortal\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "EmployeeAdminPortal\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T09:09:08.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\acer\\OneDrive\\Pictures\\Documents\\H\u1ECCC T\u1EF0 CODE\\dotnet\\EmployeeAdminPortal\\EmployeeAdminPortal\\appsettings.json",
+              "RelativeDocumentMoniker": "EmployeeAdminPortal\\appsettings.json",
+              "ToolTip": "C:\\Users\\acer\\OneDrive\\Pictures\\Documents\\H\u1ECCC T\u1EF0 CODE\\dotnet\\EmployeeAdminPortal\\EmployeeAdminPortal\\appsettings.json",
+              "RelativeToolTip": "EmployeeAdminPortal\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-28T08:56:22.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeAdminPortal",
+              "DocumentMoniker": "C:\\Users\\acer\\OneDrive\\Pictures\\Documents\\H\u1ECCC T\u1EF0 CODE\\dotnet\\EmployeeAdminPortal\\EmployeeAdminPortal\\EmployeeAdminPortal.csproj",
+              "RelativeDocumentMoniker": "EmployeeAdminPortal\\EmployeeAdminPortal.csproj",
+              "ToolTip": "C:\\Users\\acer\\OneDrive\\Pictures\\Documents\\H\u1ECCC T\u1EF0 CODE\\dotnet\\EmployeeAdminPortal\\EmployeeAdminPortal\\EmployeeAdminPortal.csproj",
+              "RelativeToolTip": "EmployeeAdminPortal\\EmployeeAdminPortal.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-28T09:55:33.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmployeeAdminPortal.csproj",
+              "DocumentMoniker": "C:\\Users\\acer\\OneDrive\\Pictures\\Documents\\H\u1ECCC T\u1EF0 CODE\\dotnet\\EmployeeAdminPortal\\EmployeeAdminPortal\\EmployeeAdminPortal.csproj",
+              "RelativeDocumentMoniker": "EmployeeAdminPortal\\EmployeeAdminPortal.csproj",
+              "ToolTip": "C:\\Users\\acer\\OneDrive\\Pictures\\Documents\\H\u1ECCC T\u1EF0 CODE\\dotnet\\EmployeeAdminPortal\\EmployeeAdminPortal\\EmployeeAdminPortal.csproj",
+              "RelativeToolTip": "EmployeeAdminPortal\\EmployeeAdminPortal.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-28T08:54:48.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20241228093835_initial migration.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\OneDrive\\Pictures\\Documents\\H\u1ECCC T\u1EF0 CODE\\dotnet\\EmployeeAdminPortal\\EmployeeAdminPortal\\Migrations\\20241228093835_initial migration.cs",
+              "RelativeDocumentMoniker": "EmployeeAdminPortal\\Migrations\\20241228093835_initial migration.cs",
+              "ToolTip": "C:\\Users\\acer\\OneDrive\\Pictures\\Documents\\H\u1ECCC T\u1EF0 CODE\\dotnet\\EmployeeAdminPortal\\EmployeeAdminPortal\\Migrations\\20241228093835_initial migration.cs",
+              "RelativeToolTip": "EmployeeAdminPortal\\Migrations\\20241228093835_initial migration.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T09:38:35.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\OneDrive\\Pictures\\Documents\\H\u1ECCC T\u1EF0 CODE\\dotnet\\EmployeeAdminPortal\\EmployeeAdminPortal\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeAdminPortal\\Program.cs",
+              "ToolTip": "C:\\Users\\acer\\OneDrive\\Pictures\\Documents\\H\u1ECCC T\u1EF0 CODE\\dotnet\\EmployeeAdminPortal\\EmployeeAdminPortal\\Program.cs",
+              "RelativeToolTip": "EmployeeAdminPortal\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T08:56:33.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\acer\\OneDrive\\Pictures\\Documents\\H\u1ECCC T\u1EF0 CODE\\dotnet\\EmployeeAdminPortal\\EmployeeAdminPortal\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "EmployeeAdminPortal\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\acer\\OneDrive\\Pictures\\Documents\\H\u1ECCC T\u1EF0 CODE\\dotnet\\EmployeeAdminPortal\\EmployeeAdminPortal\\Properties\\launchSettings.json",
+              "RelativeToolTip": "EmployeeAdminPortal\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-28T08:55:09.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\acer\\OneDrive\\Pictures\\Documents\\H\u1ECCC T\u1EF0 CODE\\dotnet\\EmployeeAdminPortal\\EmployeeAdminPortal\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "EmployeeAdminPortal\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\acer\\OneDrive\\Pictures\\Documents\\H\u1ECCC T\u1EF0 CODE\\dotnet\\EmployeeAdminPortal\\EmployeeAdminPortal\\appsettings.Development.json",
+              "RelativeToolTip": "EmployeeAdminPortal\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-28T08:54:25.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmployeeAdminPortal.http",
+              "DocumentMoniker": "C:\\Users\\acer\\OneDrive\\Pictures\\Documents\\H\u1ECCC T\u1EF0 CODE\\dotnet\\EmployeeAdminPortal\\EmployeeAdminPortal\\EmployeeAdminPortal.http",
+              "RelativeDocumentMoniker": "EmployeeAdminPortal\\EmployeeAdminPortal.http",
+              "ToolTip": "C:\\Users\\acer\\OneDrive\\Pictures\\Documents\\H\u1ECCC T\u1EF0 CODE\\dotnet\\EmployeeAdminPortal\\EmployeeAdminPortal\\EmployeeAdminPortal.http",
+              "RelativeToolTip": "EmployeeAdminPortal\\EmployeeAdminPortal.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-12-28T08:57:36.99Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
